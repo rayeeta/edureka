@@ -1,2 +1,2 @@
 # edureka
-Thism is for tutorial purpose by RayEta
+This is for tutorial purpose by RayEta
